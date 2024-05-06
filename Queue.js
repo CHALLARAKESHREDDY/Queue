@@ -1,4 +1,6 @@
 #made a custom data structure, a queue, using objects instead of arrays
+#Here the Time Complexity of Enqueue, Dequeue is O(1) constant 
+# If array is used instaed of object then Time Complexity of Enqueue and Dequeue will be O(n) which is not the best option
 
 class Queue {
     constructor() {
